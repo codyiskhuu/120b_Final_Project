@@ -19,8 +19,8 @@ Speaker
 <img src="https://github.com/codyiskhuu/120b_Final_Project/blob/master/Wiring.jpg" width="250" height="300">
 
 ## Software
-State Machine functionality left out of images, all images are within images folder.
-<img src="https://github.com/codyiskhuu/120b_Final_Project/blob/master/Wiring.jpg" width="250" height="300">
+
+<img src="https://github.com/codyiskhuu/120b_Final_Project/blob/master/Wiring.jpg" width="600" height="400">
 
 <img src="https://github.com/codyiskhuu/120b_Final_Project/blob/master/FSM%20LCD_Display%20and%20Game_Logic.png" width="300" height="200">
 <img src="https://github.com/codyiskhuu/120b_Final_Project/blob/master/FSM%20LCD_Display.png" width="150" height="150">
