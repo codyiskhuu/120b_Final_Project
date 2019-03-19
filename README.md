@@ -21,9 +21,9 @@ Speaker
 
 ## Software
 
-<img src="https://github.com/codyiskhuu/120b_Final_Project/blob/master/FSM%20LCD_Display%20and%20Game_Logic.png" width="900" height="900">
-<img src="https://github.com/codyiskhuu/120b_Final_Project/blob/master/FSM%20LCD_Display.png" width="700" height="900">
-<img src="https://github.com/codyiskhuu/120b_Final_Project/blob/master/FSM%20Song_State.png" width="700" height="300">
+<img src="https://github.com/codyiskhuu/120b_Final_Project/blob/master/FSM%20LCD_Display%20and%20Game_Logic.png" width="1300" height="900">
+<img src="https://github.com/codyiskhuu/120b_Final_Project/blob/master/FSM%20LCD_Display.png" width="700" height="800">
+<img src="https://github.com/codyiskhuu/120b_Final_Project/blob/master/FSM%20Song_State.png" width="500" height="300">
 
 ## Complexities
 
