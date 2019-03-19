@@ -3,7 +3,7 @@
 ## Introduction
 This Rhythm Game has three to four buttons that need to be pressed when notes reach the start bar. The concept of this game is to match the notes with a corresponding button press at certain times and areas in the play area. If the player presses the button at the correct time then he/she would get points. The player is only to be pressing one at a time or else points are not granted. The point of the game is for the player to gain as much points as possible. Once the song is completed, the player would see their score and if their score is higher than the previous high score then it would replace it in the high score screen, otherwise it would stay the same.
 
-<img src="https://github.com/codyiskhuu/120b_Final_Project/blob/master/Interface_2.PNG" width="500" height="300"> 
+<img src="https://github.com/codyiskhuu/120b_Final_Project/blob/master/Interface_2.PNG" width="800" height="500"> 
 
 ## Hardware
 ### Parts List
